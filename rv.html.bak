@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>ABOUT ME</title>
+<link rel="shortcut icon" href="images\Black_computer_icon.png "" type="image/png">
+<link rel="icon" href="images/themes2.gif" type="image/gif">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- css -->
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" property="" />
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />	
+<!--// css -->
+<!-- font -->
+
+<!-- //font -->
+<script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.js"></script>
+
+</head>
+<body> 
+
+	</div>
+	<!-- Banner-Slider-JavaScript -->
+	<script src="js/responsiveslides.min.js"></script>
+	<script>
+		$(function () {
+			$("#slider").responsiveSlides({
+				auto: true,
+				nav: true,
+				speed: 800,
+				namespace: "callbacks",
+				pager: true,
+			});
+		});
+	</script>
+	<!-- //Banner-Slider-JavaScript -->
+	<!-- //Header -->
+
+<!-- about-->
+<div class="koguvcavis-varazdel">
+  <div class="sestim-donials">
+  <h1 color="000" >Отзывы</h1>
+  <div class="sectionesag"></div>
+  <div class="sagestim-lonials">
+  <div class="vemotau-vokusipol">
+  <div class="testimonial">
+  <img src="images\citate.jpg"" alt="">
+  <div class="gecedanam">@erruqie</div>
+  <div class="apogered-gselected">
+  <i class="fas fa-star"></i>
+  <i class="fas fa-star"></i>
+  <i class="fas fa-star"></i>
+  <i class="fas fa-star"></i>
+  <i class="fas fa-star"></i>
+  </div>
+
+  <p>Отличный разработчик. Выполняет все в срок</p>
+  </div>
+  </div>
+
+  <div class="vemotau-vokusipol">
+  <div class="testimonial">
+  <img src="images\citate.jpg" alt="">
+  <div class="gecedanam">@thetwizzfather</div>
+  <div class="apogered-gselected">
+  <i class="fas fa-star"></i>
+  <i class="fas fa-star"></i>
+  <i class="fas fa-star"></i>
+  <i class="far fa-star"></i>
+  <i class="far fa-star"></i>
+  </div>
+
+  <p>В целом доволен. Нашли компромис, работа выполнена в срок</p>
+  </div>
+  </div>
+
+  <div class="vemotau-vokusipol">
+  <div class="testimonial">
+  <img src="images\citate.jpg" alt="">
+  <div class="gecedanam">@imaginationabuser</div>
+  <div class="apogered-gselected">
+  <i class="fas fa-star"></i>
+  <i class="fas fa-star"></i>
+  <i class="fas fa-star"></i>
+  <i class="fas fa-star"></i>
+  <i class="far fa-star"></i>
+  </div>
+
+  <p>Работой доволен, все сделано вовремя
+  </p>
+  </div>
+  </div>
+  </div>
+<!-- //about -->
+
+<div class="services-bottom-w3-agileits">
+		<div class="container">
+			<div class="wthree_info">
+				<section class="slider">
+					<div class="flexslider">
+						<ul class="slides">
+							<li>
+								<div class="wthree_info_grid">
+									<h3 style="font-family: Impact;">ДОНАТ</h3>
+									<p style="font-family: Impact;">TINKOFF - 2200700777293852</p>
+									<a href="http://qiwi.com/p/79164496598" class="learn">QIWI</a>
+									<a href="http://t.me/CryptoBot?start=IVUTVGBQemCT" class="learn">КРИПТОВАЛЮТА</a
+								</div>
+							</li>
+																					<li>
+								<div class="wthree_info_grid">
+									<h3 style="font-family: Impact;">ВЕРНУТЬСЯ НАЗАД</h3>
+									<a href="index.html" class="learn">ССЫЛКА</a>
+								</div>
+							</li>
+						</ul>
+					</div>
+				</section>
+						<!-- flexSlider -->
+							
+							<script defer src="js/jquery.flexslider.js"></script>
+							<script type="text/javascript">
+							$(window).load(function(){
+							  $('.flexslider').flexslider({
+								animation: "slide",
+								start: function(slider){
+								  $('body').removeClass('loading');
+								}
+							  });
+							});
+						  </script>
+						<!-- //flexSlider -->
+			</div>
+		</div>
+	</div>
+
+<!-- footer -->
+<div class="footer">
+	<div class="container">
+		<div class="col-md-3 footer-left-w3">
+			<ul>
+				<li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span></li>
+				<li><h6>OKTYABRSKYI, RUSSIA</h6></li>
+			</ul>
+		</div>
+		<div class="col-md-4 footer-right-w3">
+			<a href="index.html"><h4>ABOUT <img src="https://www.kindpng.com/picc/m/219-2195688_web-development-development-icon-png-white-transparent-png.png" alt=" " /> ME</h4></a>
+			<p><b>WEBSITE BY JUGGSOULJAH</b></p>
+		</div>
+		<div class="clearfix"></div>
+		<div class="copyright">
+			<p>&copy; <b>#STHALILDIFFERENT 2K23. ALL RIGHTS RESERVED | DESIGN BY JUGGSOULJAH</b></p>
+		</div>
+	</div>
+</div>
+<!-- //footer -->
+</body>
+</html>
